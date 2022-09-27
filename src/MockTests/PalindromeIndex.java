@@ -1,4 +1,3 @@
-package MockTests;
 
 public class PalindromeIndex {
     
